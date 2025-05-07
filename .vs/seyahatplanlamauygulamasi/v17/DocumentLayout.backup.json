@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hasan.tanriverdi\\source\\repos\\seyahatplanlamauygulamasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7017B23-3374-426A-A23A-30D33724AED6}|seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7017B23-3374-426A-A23A-30D33724AED6}|seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi.csproj|solutionrelative:seyahatplanlamauygulamasi\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7017B23-3374-426A-A23A-30D33724AED6}|seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi\\rota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7017B23-3374-426A-A23A-30D33724AED6}|seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi.csproj|solutionrelative:seyahatplanlamauygulamasi\\rota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7017B23-3374-426A-A23A-30D33724AED6}|seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi\\kayitlirota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7017B23-3374-426A-A23A-30D33724AED6}|seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi.csproj|solutionrelative:seyahatplanlamauygulamasi\\kayitlirota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7017B23-3374-426A-A23A-30D33724AED6}|seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi\\kayitlirota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7017B23-3374-426A-A23A-30D33724AED6}|seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi.csproj|solutionrelative:seyahatplanlamauygulamasi\\kayitlirota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7017B23-3374-426A-A23A-30D33724AED6}|seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi\\rota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7017B23-3374-426A-A23A-30D33724AED6}|seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi.csproj|solutionrelative:seyahatplanlamauygulamasi\\rota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7017B23-3374-426A-A23A-30D33724AED6}|seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7017B23-3374-426A-A23A-30D33724AED6}|seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi.csproj|solutionrelative:seyahatplanlamauygulamasi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7017B23-3374-426A-A23A-30D33724AED6}|seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7017B23-3374-426A-A23A-30D33724AED6}|seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi.csproj|solutionrelative:seyahatplanlamauygulamasi\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7017B23-3374-426A-A23A-30D33724AED6}|seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7017B23-3374-426A-A23A-30D33724AED6}|seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi.csproj|solutionrelative:seyahatplanlamauygulamasi\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7017B23-3374-426A-A23A-30D33724AED6}|seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7017B23-3374-426A-A23A-30D33724AED6}|seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi.csproj|solutionrelative:seyahatplanlamauygulamasi\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "kayitlirota.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi\\kayitlirota.cs",
+              "RelativeDocumentMoniker": "seyahatplanlamauygulamasi\\kayitlirota.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi\\kayitlirota.cs",
+              "RelativeToolTip": "seyahatplanlamauygulamasi\\kayitlirota.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvzMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T09:50:52.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi\\Program.cs",
+              "RelativeDocumentMoniker": "seyahatplanlamauygulamasi\\Program.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi\\Program.cs",
+              "RelativeToolTip": "seyahatplanlamauygulamasi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T09:50:10.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "rota.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi\\rota.cs",
+              "RelativeDocumentMoniker": "seyahatplanlamauygulamasi\\rota.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi\\rota.cs",
+              "RelativeToolTip": "seyahatplanlamauygulamasi\\rota.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T09:42:07.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "kayitlirota.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi\\kayitlirota.cs",
+              "RelativeDocumentMoniker": "seyahatplanlamauygulamasi\\kayitlirota.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi\\kayitlirota.cs [Tasar\u0131m]",
+              "RelativeToolTip": "seyahatplanlamauygulamasi\\kayitlirota.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:31:46.833Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "rota.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi\\rota.cs",
+              "RelativeDocumentMoniker": "seyahatplanlamauygulamasi\\rota.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi\\rota.cs [Tasar\u0131m]",
+              "RelativeToolTip": "seyahatplanlamauygulamasi\\rota.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:31:36.381Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "anasayfa.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi\\anasayfa.cs",
+              "RelativeDocumentMoniker": "seyahatplanlamauygulamasi\\anasayfa.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi\\anasayfa.cs",
+              "RelativeToolTip": "seyahatplanlamauygulamasi\\anasayfa.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:07:20.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "anasayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi\\anasayfa.cs",
+              "RelativeDocumentMoniker": "seyahatplanlamauygulamasi\\anasayfa.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi\\anasayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "seyahatplanlamauygulamasi\\anasayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:05:47.662Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "giris.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi\\giris.cs",
+              "RelativeDocumentMoniker": "seyahatplanlamauygulamasi\\giris.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi\\giris.cs",
+              "RelativeToolTip": "seyahatplanlamauygulamasi\\giris.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:51:55.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "giris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi\\giris.cs",
+              "RelativeDocumentMoniker": "seyahatplanlamauygulamasi\\giris.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\seyahatplanlamauygulamasi\\seyahatplanlamauygulamasi\\giris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "seyahatplanlamauygulamasi\\giris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:38:56.167Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

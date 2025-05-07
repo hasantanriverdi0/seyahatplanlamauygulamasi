@@ -1,0 +1,13 @@
+C:\Users\hasan.tanriverdi\source\repos\seyahatplanlamauygulamasi\seyahatplanlamauygulamasi\bin\Debug\seyahatplanlamauygulamasi.exe.config
+C:\Users\hasan.tanriverdi\source\repos\seyahatplanlamauygulamasi\seyahatplanlamauygulamasi\bin\Debug\seyahatplanlamauygulamasi.exe
+C:\Users\hasan.tanriverdi\source\repos\seyahatplanlamauygulamasi\seyahatplanlamauygulamasi\bin\Debug\seyahatplanlamauygulamasi.pdb
+C:\Users\hasan.tanriverdi\source\repos\seyahatplanlamauygulamasi\seyahatplanlamauygulamasi\obj\Debug\seyahatplanlamauygulamasi.csproj.AssemblyReference.cache
+C:\Users\hasan.tanriverdi\source\repos\seyahatplanlamauygulamasi\seyahatplanlamauygulamasi\obj\Debug\seyahatplanlamauygulamasi.Properties.Resources.resources
+C:\Users\hasan.tanriverdi\source\repos\seyahatplanlamauygulamasi\seyahatplanlamauygulamasi\obj\Debug\seyahatplanlamauygulamasi.csproj.GenerateResource.cache
+C:\Users\hasan.tanriverdi\source\repos\seyahatplanlamauygulamasi\seyahatplanlamauygulamasi\obj\Debug\seyahatplanlamauygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\hasan.tanriverdi\source\repos\seyahatplanlamauygulamasi\seyahatplanlamauygulamasi\obj\Debug\seyahatplanlamauygulamasi.exe
+C:\Users\hasan.tanriverdi\source\repos\seyahatplanlamauygulamasi\seyahatplanlamauygulamasi\obj\Debug\seyahatplanlamauygulamasi.pdb
+C:\Users\hasan.tanriverdi\source\repos\seyahatplanlamauygulamasi\seyahatplanlamauygulamasi\obj\Debug\seyahatplanlamauygulamasi.anasayfa.resources
+C:\Users\hasan.tanriverdi\source\repos\seyahatplanlamauygulamasi\seyahatplanlamauygulamasi\obj\Debug\seyahatplanlamauygulamasi.giris.resources
+C:\Users\hasan.tanriverdi\source\repos\seyahatplanlamauygulamasi\seyahatplanlamauygulamasi\obj\Debug\seyahatplanlamauygulamasi.kayitlirota.resources
+C:\Users\hasan.tanriverdi\source\repos\seyahatplanlamauygulamasi\seyahatplanlamauygulamasi\obj\Debug\seyahatplanlamauygulamasi.rota.resources
